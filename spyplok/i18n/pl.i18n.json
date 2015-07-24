@@ -1,0 +1,43 @@
+{
+    "ui": {
+        "welcome to spyfall": "Witaj w SpyPlok",
+        "new game": "Nowa Gra",
+        "join game": "Dołącz do Gry",
+        "waiting for players": "Oczekiwanie Na Graczy...",
+        "access code": "Kod dostępu",
+        "join my spyfall game": "Dołącz do mojej rozgrywki SpyPlok!",
+        "start game": "Rozpocznij Grę",
+        "leave game": "Opuść Grę",
+        "show hide": "pokaż/ukryj",
+        "you are the spy": "Jesteś szpiegiem!",
+        "you are not the spy": "<strong>Nie</strong> jesteś szpiegiem!",
+        "the location": "Lokalizacja",
+        "your role": "Twoja rola",
+        "players": "Gracze",
+        "first": "pierwszy",
+        "location reference": "Spis Lokalizacji",
+        "end game": "Zakończ Grę",
+        "enter your name": "Podaj swoje imię",
+        "create game": "Załóż",
+        "back": "Wstecz",
+        "enter an access code": "Podaj kod dostępu",
+        "invalid access code": "Przepraszam, nie ma gry o takim kodzie dostępu!",
+        "join": "Dołącz",
+        "footer": "<a href='http://international.hobbyworld.ru/catalog/25-spyfall/' target='_blank'>SpyPlok</a> projekt Alexandr Ushan, by <a href='http://international.hobbyworld.ru/' target='_blank'>Hobby World</a>, przerobione przez Kierca"
+    },
+    "locations": {
+        "loc1": "Miateczko Studenckie AGH",
+        "roles": {
+            "loc1": {
+                "role1": "Żul Nindża",
+                "role2": "Wichura",
+                "role3": "Studenciak z siatą browarów",
+                "role4": "Kazek",
+                "role5": "Kiercu",
+                "role6": "Świstak",
+                "role7": "Ochrona Miasteczka",
+		"role8": "Martyna"
+            }   
+        }
+    }
+}
