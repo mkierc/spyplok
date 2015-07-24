@@ -27,6 +27,8 @@
     },
     "locations": {
         "loc1": "Miateczko Studenckie AGH",
+        "loc2": "Zakład Mechaniczny Cytryn & Gumiak",
+        "loc3": "Student Market",
         "roles": {
             "loc1": {
                 "role1": "Żul Nindża",
@@ -36,8 +38,24 @@
                 "role5": "Kiercu",
                 "role6": "Świstak",
                 "role7": "Ochrona Miasteczka",
-		"role8": "Martyna"
-            }   
+                "role8": "Martyna"
+            },
+		"loc2": {
+                "role1": "Cytryn",
+                "role2": "Gumiak",
+                "role3": "Wkurwiony Kazek",
+                "role4": "Tępa Blondi",
+                "role5": "Rozjebana Skoda",
+                "role6": "Mietek"
+            },
+			"loc3": {
+                "role1": "Najebany student w kolejce",
+                "role2": "Alojz",
+                "role3": "Żużel-smakosz",
+                "role4": "Gruby pomocnik Alojza",
+                "role5": "Baba z psem",
+                "role6": "Gadatliwy żul z petem"
+            }
         }
     }
 }
